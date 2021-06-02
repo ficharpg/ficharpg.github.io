@@ -308,11 +308,7 @@ function pericias(vida){
 	html3 +="<tr><td>Arco Normal:</td>"
 	html3 +="<td>2 </td>"
 	html3 +="<td><button onClick='roll2()'>ROLL</button></td></tr>"
-	
-	html3 +="<tr><td colspan= 3><button class="dano" onclick="window.location.href='/danos'">Danos</button></tr></tr>"
-	
-	
-	
+		
 	var tabelapericias = document.getElementById("tabelapericias")
   tabelapericias.innerHTML = html3
 }
