@@ -309,9 +309,6 @@ function pericias(vida){
 	html3 +="<td>2 </td>"
 	html3 +="<td><button onClick='roll2()'>ROLL</button></td></tr>"
 	
-	
-	
-	
 	var tabelapericias = document.getElementById("tabelapericias")
   tabelapericias.innerHTML = html3
 }
