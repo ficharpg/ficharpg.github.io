@@ -282,32 +282,32 @@ function pericias(vida){
 	html3 +="<tr><td colspan = 3>Armas De Fogo</td>"
 	
 	html3 +="<tr><td>Espingarda:</td>"
-	html3 +="<td>4 <button onClick='roll4()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>4</td>"
+	html3 +="<td><button onClick='roll4()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Metralhadora:</td>"
-	html3 +="<td>3 <button onClick='roll3()'>ROLL</button></td></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>3 </td></td>"
+	html3 +="<td><button onClick='roll3()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Pistola:</td>"
-	html3 +="<td>14 <button onClick='roll14()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>14 </td>"
+	html3 +="<td><button onClick='roll14()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Rifle:</td>"
-	html3 +="<td>3 <button onClick='roll3()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>3 </td>"
+	html3 +="<td><button onClick='roll3()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Submetralhadora:</td>"
 	html3 +="<td>4 <button onClick='roll4()'>ROLL</button></td>"
 	html3 +="<td>?</td></tr>"
 	
 	html3 +="<tr><td>Arco Balestra:</td>"
-	html3 +="<td>3 <button onClick='roll3()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>3 </td>"
+	html3 +="<td><button onClick='roll3()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Arco Normal:</td>"
-	html3 +="<td>2 <button onClick='roll2()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>2 </td>"
+	html3 +="<td><button onClick='roll2()'>ROLL</button></td></tr>"
 	
 	
 	
