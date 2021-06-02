@@ -298,8 +298,8 @@ function pericias(vida){
 	html3 +="<td><button onClick='roll3()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Submetralhadora:</td>"
-	html3 +="<td>4 <button onClick='roll4()'>ROLL</button></td>"
-	html3 +="<td>?</td></tr>"
+	html3 +="<td>4</td>"
+	html3 +="<td><button onClick='roll4()'>ROLL</button></td></tr>"
 	
 	html3 +="<tr><td>Arco Balestra:</td>"
 	html3 +="<td>3 </td>"
@@ -308,7 +308,10 @@ function pericias(vida){
 	html3 +="<tr><td>Arco Normal:</td>"
 	html3 +="<td>2 </td>"
 	html3 +="<td><button onClick='roll2()'>ROLL</button></td></tr>"
-		
+	
+	
+	
+	
 	var tabelapericias = document.getElementById("tabelapericias")
   tabelapericias.innerHTML = html3
 }
